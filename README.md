@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @timhilehin1
-- 👀 I’m interested in building responsive and cool user-friendly websites
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Any type of web projects
+- Software Engineer
 - 📫 How to reach me timilehinoladapo0@gmail.com
 
 <!---

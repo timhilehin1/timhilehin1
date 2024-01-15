@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timhilehin1
-- Software Engineer
+- I'm a Software Engineer(FE Heavy)
 - 📫 How to reach me timilehinoladapo0@gmail.com
 
 <!---
